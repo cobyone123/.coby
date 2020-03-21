@@ -1,2 +1,1 @@
-# .coby
-Coby’s experimental page
+<!DOCTYPE html>
